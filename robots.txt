@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: tinkoff-kazino-s-momentalnym-vyvodom.github.io
+Sitemap: https://tinkoff-kazino-s-momentalnym-vyvodom.github.io/sitemap.xml
